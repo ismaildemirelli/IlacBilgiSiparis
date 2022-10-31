@@ -4,24 +4,30 @@
 
 * İsmail Demirelli (Back-End)
 
-* Muhammed Eren Yerlikaya (Front-End)
+* Muhammed Eren Yerlikaya (Front-End) (Scrum Master)
 
 * Muhammed Tarık Gülezgin (Veritabanı)
 
 # Projenin Amacı
 
-* Uzun araştırmalar ve vakit gerektiren otomobil piyasa bilgisini hızlı bir şekilde kategorize edip kullanıcıya sunmak.
+*İlaçlar hakkında bilgiler vermek
 
-* Araştırılan fiyat aralığında ve özellik bakımından benzer araç önerilerinde bulunmak.
+*Aynı etken maddeye sahip muadil ilaçları listelemek
 
-* Araçların veya markaların şehirlere göre istatistikleri sunmak. 
+*Sınıflarına göre ilaçları listelemek
 
-* Aranılan model,marka bilgisine göre en uygun aracı önermeK (düşük kilometre, ucuz fiyat, yüksek model vb.)
+*İlaç siparişi
+
+*İlaçların şehirlere göre satış istatistikleri
+
+*İlaç fiyatları
 
 # Kullanılan Teknolojiler
 
-* Back-End (Java-Spring Boot)
+*Python-Selenium
 
-* Front-End (Dart-Flutter)
+*MsSQL (Veri tabanı)
 
-* Veritabanı (MySQL)
+*Dart-Flutter (Front-End)
+
+*Java- Spring boot
